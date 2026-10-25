@@ -1,4 +1,4 @@
-# QA Automation Engineer | SDET | Cybersecurity & DevSecOps
+# QA Automation Engineer | Cybersecurity & DevSecOps
 
 Software quality and test automation professional with experience in automated testing, API validation, and CI/CD. Focused on application security, security testing, and DevSecOps.
 
